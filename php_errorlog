@@ -1,0 +1,5 @@
+[30-Jun-2017 16:47:18 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/globa053/public_html/fixpluz.org/referrals.php on line 18
+[30-Jun-2017 16:52:42 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/globa053/public_html/fixpluz.org/referrals.php on line 18
+[30-Jun-2017 16:52:49 CST6CDT] PHP Parse error:  syntax error, unexpected '$userrefs' (T_VARIABLE) in /home/globa053/public_html/fixpluz.org/referrals.php on line 14
+[01-Jul-2017 14:49:59 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/globa053/public_html/fixpluz.org/tester.php on line 132
+[01-Jul-2017 15:02:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'rsponsor_count' (T_STRING) in /home/globa053/public_html/fixpluz.org/tester.php on line 851
